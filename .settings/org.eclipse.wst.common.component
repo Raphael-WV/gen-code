@@ -34,7 +34,7 @@
         
         
         
-        <property name="java-output-path" value="/gen-code/target/classes"/>
+        <property name="java-output-path" value="/alva-labs/target/classes"/>
         <property name="context-root" value="Main"/>
                                             
     
